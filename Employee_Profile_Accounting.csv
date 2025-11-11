@@ -1,0 +1,85 @@
+EEID,Full Name,Job Title,Department,Business Unit,Gender,Ethnicity,Age,Hire Date,Annual Salary,Bonus %,Country,City,Exit Date,EmploymentRating,DaysOfAbsence,EducationLevel,CertificationsEarned
+E00085,Isla Wong,Vice President,Accounting,Corporate,Female,Asian,56,3/16/2014,"$190,815",0.4,United States,Austin,,10,8,Master's,0
+E00103,Nora Park,Director,Accounting,Speciality Products,Female,Asian,29,6/28/2017,"$197,649",0.2,United States,Columbus,,10,3,Bachelor's,0
+E00105,Isla Espinoza,Manager,Accounting,Speciality Products,Female,Latino,38,11/16/2021,"$109,812",0.09,Brazil,Manaus,,6,6,Bachelor's,3
+E00184,Kayden Ortega,Analyst,Accounting,Manufacturing,Male,Latino,58,4/19/2010,"$56,350",0,Brazil,Rio de Janerio,,6,12,Master's,0
+E00276,Ezekiel Jordan,Sr. Manger,Accounting,Corporate,Male,Caucasian,33,2/10/2013,"$144,231",0.14,United States,Columbus,7/17/2020,10,16,Bachelor's,0
+E00282,Jeremiah Castillo,Analyst II,Accounting,Research & Development,Male,Latino,58,4/12/2006,"$64,202",0,United States,Columbus,,9,9,Bachelor's,0
+E00380,Alice Thompson,Vice President,Accounting,Speciality Products,Female,Caucasian,48,4/25/2007,"$217,783",0.36,United States,Seattle,,7,10,PhD,2
+E00500,Henry Shah,Director,Accounting,Manufacturing,Male,Asian,55,6/11/2010,"$187,389",0.25,China,Chengdu,,8,16,Bachelor's,4
+E00502,Natalia Salazar,Sr. Analyst,Accounting,Manufacturing,Female,Latino,44,1/2/2019,"$74,691",0,Brazil,Manaus,7/8/2020,7,6,Bachelor's,1
+E00508,Thomas Jung,Sr. Analyst,Accounting,Research & Development,Male,Asian,50,10/23/2009,"$79,447",0,China,Shanghai,,5,3,Bachelor's,2
+E00515,Joseph Vazquez,Sr. Manger,Accounting,Speciality Products,Male,Latino,40,1/23/2019,"$159,031",0.1,United States,Miami,,7,1,Bachelor's,0
+E00556,Grayson Walker,Director,Accounting,Manufacturing,Male,Caucasian,29,2/19/2017,"$181,854",0.29,United States,Seattle,4/24/2020,5,4,Bachelor's,2
+E00568,Ava Garza,Director,Accounting,Manufacturing,Female,Latino,27,6/25/2018,"$174,097",0.21,United States,Phoenix,,10,14,Master's,4
+E00624,William Watson,Director,Accounting,Speciality Products,Male,Caucasian,41,6/4/2013,"$167,526",0.26,United States,Miami,,10,6,Master's,3
+E00646,Charles Moore,Analyst,Accounting,Speciality Products,Male,Caucasian,49,12/17/2011,"$56,878",0,United States,Seattle,,9,4,Bachelor's,4
+E00682,Sofia Fernandez,Manager,Accounting,Manufacturing,Female,Latino,44,10/17/2005,"$105,223",0.1,United States,Phoenix,,8,13,Bachelor's,2
+E00702,Nathan Pham,Sr. Manger,Accounting,Manufacturing,Male,Asian,45,12/12/2006,"$149,537",0.14,United States,Seattle,,10,4,Bachelor's,3
+E00785,Hannah Hoang,Manager,Accounting,Speciality Products,Female,Asian,25,12/15/2021,"$114,893",0.06,China,Chengdu,,9,5,Bachelor's,2
+E00825,Anna Molina,Sr. Analyst,Accounting,Corporate,Female,Latino,41,6/12/2016,"$70,165",0,United States,Columbus,,10,2,Bachelor's,4
+E00826,Rylee Bui,Analyst,Accounting,Corporate,Female,Asian,55,12/22/2011,"$54,733",0,China,Chongqing,,10,0,PhD,4
+E00864,Samantha Aguilar,Manager,Accounting,Speciality Products,Female,Latino,46,4/24/2010,"$102,636",0.06,United States,Seattle,,5,10,Bachelor's,0
+E01089,Nicholas Brooks,Analyst II,Accounting,Manufacturing,Male,Caucasian,43,10/20/2017,"$56,555",0,United States,Phoenix,,7,10,PhD,4
+E01123,Madison Nelson,Director,Accounting,Corporate,Female,Caucasian,27,7/16/2021,"$161,759",0.16,United States,Miami,,6,2,Bachelor's,0
+E01261,Connor Simmons,Analyst II,Accounting,Speciality Products,Male,Caucasian,55,4/5/2007,"$52,310",0,United States,Miami,10/12/2018,7,12,Master's,3
+E01309,Everleigh Jiang,Director,Accounting,Research & Development,Female,Asian,58,5/14/2003,"$173,071",0.29,United States,Columbus,,10,2,Master's,0
+E01396,Jack Vu,Analyst II,Accounting,Research & Development,Male,Asian,43,2/10/2014,"$58,875",0,China,Chengdu,,10,7,Bachelor's,3
+E01416,Hudson Thompson,Analyst II,Accounting,Manufacturing,Male,Black,30,10/20/2020,"$67,753",0,United States,Phoenix,,10,12,Bachelor's,2
+E01465,Hannah White,Sr. Manger,Accounting,Corporate,Female,Caucasian,62,1/30/2009,"$150,555",0.13,United States,Phoenix,,8,1,Master's,3
+E01486,Mason Cho,Vice President,Accounting,Research & Development,Male,Asian,59,5/18/2011,"$192,213",0.4,United States,Chicago,,8,2,Bachelor's,1
+E01749,Nathan Lee,Analyst,Accounting,Manufacturing,Male,Asian,29,8/20/2016,"$58,703",0,United States,Columbus,,6,10,Bachelor's,1
+E01753,Connor Fong,Manager,Accounting,Speciality Products,Male,Asian,40,2/16/2018,"$120,905",0.05,United States,Seattle,,8,9,Bachelor's,0
+E01877,Abigail Garza,Analyst,Accounting,Manufacturing,Female,Latino,33,5/27/2018,"$45,049",0,United States,Seattle,,9,8,PhD,1
+E01883,Isla Guzman,Sr. Manger,Accounting,Speciality Products,Female,Latino,28,7/6/2019,"$152,036",0.15,Brazil,Rio de Janerio,,10,6,Master's,2
+E01921,Sarah Daniels,Sr. Manger,Accounting,Manufacturing,Female,Caucasian,55,1/9/2011,"$138,521",0.1,United States,Miami,,9,14,Bachelor's,0
+E02062,Nora Santiago,Analyst,Accounting,Research & Development,Female,Latino,55,6/26/1996,"$48,687",0,Brazil,Rio de Janerio,,5,5,Bachelor's,1
+E02139,Rylee Yu,Director,Accounting,Research & Development,Female,Asian,36,9/29/2015,"$178,700",0.29,United States,Seattle,,10,8,Bachelor's,1
+E02153,Peyton Vasquez,Analyst,Accounting,Corporate,Female,Latino,26,1/24/2019,"$55,767",0,United States,Phoenix,,8,8,Bachelor's,3
+E02202,Emilia Bailey,Vice President,Accounting,Speciality Products,Female,Caucasian,41,8/9/2012,"$245,360",0.37,United States,Austin,,6,16,Bachelor's,1
+E02307,Skylar Evans,Director,Accounting,Research & Development,Female,Caucasian,42,6/4/2009,"$174,099",0.26,United States,Austin,,10,12,Bachelor's,3
+E02337,Emma Cao,Analyst,Accounting,Corporate,Female,Asian,27,8/24/2019,"$50,809",0,China,Chongqing,,7,8,Master's,0
+E02534,Victoria Johnson,Sr. Manger,Accounting,Corporate,Female,Caucasian,55,5/28/2004,"$159,885",0.12,United States,Columbus,,10,14,Bachelor's,1
+E02555,Landon Lopez,Sr. Analyst,Accounting,Manufacturing,Male,Latino,38,7/5/2008,"$78,056",0,Brazil,Sao Paulo,,5,11,Bachelor's,3
+E02563,Emily Clark,Vice President,Accounting,Corporate,Female,Caucasian,36,1/13/2020,"$253,294",0.4,United States,Miami,,9,2,Bachelor's,4
+E02632,Alice Soto,Analyst,Accounting,Corporate,Female,Latino,56,4/13/1995,"$50,857",0,Brazil,Manaus,,7,3,PhD,3
+E02652,Nathan Sun,Manager,Accounting,Speciality Products,Male,Asian,63,7/29/2015,"$103,724",0.05,China,Shanghai,,7,7,Bachelor's,1
+E02728,Thomas Chang,Sr. Analyst,Accounting,Research & Development,Male,Asian,34,7/26/2011,"$97,231",0,China,Beijing,,7,8,Bachelor's,3
+E02781,Athena Vu,Director,Accounting,Manufacturing,Female,Asian,63,3/6/2007,"$193,044",0.15,United States,Miami,,8,1,Bachelor's,3
+E02881,Leilani Sharma,Sr. Analyst,Accounting,Manufacturing,Female,Asian,43,1/23/2014,"$92,940",0,China,Chengdu,,8,5,PhD,0
+E02900,Elena Richardson,Manager,Accounting,Manufacturing,Female,Caucasian,34,10/3/2014,"$103,707",0.09,United States,Columbus,,7,6,Bachelor's,2
+E02923,Ethan Tang,Sr. Analyst,Accounting,Speciality Products,Male,Asian,54,5/4/2016,"$93,668",0,United States,Chicago,,6,8,Bachelor's,3
+E02960,Nova Hill,Sr. Analyst,Accounting,Manufacturing,Female,Caucasian,56,3/10/2018,"$90,040",0,United States,Chicago,,8,3,Bachelor's,3
+E03113,Willow Chen,Manager,Accounting,Corporate,Female,Asian,50,9/3/2012,"$102,033",0.08,United States,Austin,,6,3,Master's,1
+E03220,Alexander Gonzales,Manager,Accounting,Research & Development,Male,Latino,34,6/4/2018,"$128,329",0.08,United States,Phoenix,,5,9,Bachelor's,1
+E03289,Christopher Lam,Vice President,Accounting,Manufacturing,Male,Asian,64,3/29/2013,"$252,325",0.4,United States,Columbus,,5,11,Master's,2
+E03305,Hannah King,Manager,Accounting,Speciality Products,Female,Caucasian,31,10/7/2014,"$114,911",0.07,United States,Chicago,,8,5,Bachelor's,2
+E03327,Julia Luong,Sr. Manger,Accounting,Research & Development,Female,Asian,55,6/20/2006,"$142,628",0.12,China,Chongqing,,10,11,Master's,3
+E03383,Lincoln Hall,Director,Accounting,Speciality Products,Male,Caucasian,26,7/28/2020,"$180,664",0.27,United States,Chicago,,10,14,PhD,1
+E03496,Robert Yang,Sr. Analyst,Accounting,Speciality Products,Male,Asian,31,11/4/2017,"$97,078",0,United States,Austin,3/9/2020,10,15,Bachelor's,2
+E03545,Sofia Cheng,Vice President,Accounting,Corporate,Female,Asian,63,7/26/2020,"$216,195",0.31,United States,Miami,,6,3,Bachelor's,1
+E03547,Owen Han,Analyst,Accounting,Corporate,Male,Asian,28,5/12/2017,"$52,069",0,China,Chongqing,,7,12,Bachelor's,3
+E03630,Jacob Davis,Director,Accounting,Research & Development,Male,Caucasian,36,9/3/2016,"$150,399",0.28,United States,Chicago,,6,15,Bachelor's,4
+E03642,Aria Roberts,Manager,Accounting,Corporate,Female,Caucasian,38,8/12/2015,"$106,858",0.05,United States,Seattle,,8,5,Bachelor's,0
+E03689,Wesley Gray,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,62,4/22/2003,"$76,906",0,United States,Seattle,,6,2,Master's,1
+E03880,Samantha Woods,Analyst,Accounting,Speciality Products,Female,Caucasian,56,12/25/2019,"$54,829",0,United States,Phoenix,,5,8,PhD,3
+E03972,Jordan Gomez,Sr. Analyst,Accounting,Research & Development,Male,Latino,58,9/15/1994,"$98,769",0,Brazil,Rio de Janerio,10/3/2016,7,5,Master's,2
+E04095,Sadie Patterson,Sr. Analyst,Accounting,Speciality Products,Female,Caucasian,38,7/24/2020,"$89,390",0,United States,Seattle,,9,15,Bachelor's,3
+E04126,Dominic Baker,Sr. Analyst,Accounting,Manufacturing,Male,Black,51,10/9/2020,"$91,853",0,United States,Chicago,,5,13,Bachelor's,2
+E04150,Natalia Vu,Analyst,Accounting,Research & Development,Female,Asian,54,12/29/2006,"$55,518",0,United States,Columbus,,5,11,Bachelor's,3
+E04194,Madison Kumar,Director,Accounting,Speciality Products,Female,Asian,55,10/17/2010,"$188,727",0.23,China,Chengdu,,5,5,Master's,2
+E04213,Hailey Xi,Manager,Accounting,Corporate,Female,Asian,52,11/19/2021,"$111,006",0.08,China,Chongqing,,5,0,Bachelor's,4
+E04249,Hadley Dang,Vice President,Accounting,Corporate,Female,Asian,47,12/26/2021,"$243,568",0.33,United States,Austin,,10,10,Master's,3
+E04359,Greyson Lam,Vice President,Accounting,Manufacturing,Male,Asian,25,2/8/2021,"$198,243",0.31,United States,Miami,,6,16,PhD,1
+E04403,Dominic Hu,Manager,Accounting,Speciality Products,Male,Asian,34,2/13/2012,"$118,708",0.07,China,Shanghai,,7,11,Bachelor's,4
+E04415,Penelope Fong,Director,Accounting,Corporate,Female,Asian,60,5/14/2004,"$186,378",0.26,China,Chongqing,,10,15,Bachelor's,2
+E04477,Connor Grant,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,27,10/13/2021,"$74,077",0,United States,Seattle,,8,3,Master's,0
+E04487,Audrey Hwang,Sr. Analyst,Accounting,Speciality Products,Female,Asian,45,6/17/2020,"$89,841",0,China,Beijing,,8,1,Bachelor's,4
+E04533,Easton Bailey,Manager,Accounting,Manufacturing,Male,Caucasian,29,1/25/2019,"$113,527",0.06,United States,Austin,,5,15,Master's,2
+E04536,Layla Scott,Sr. Manger,Accounting,Speciality Products,Female,Caucasian,48,7/30/2010,"$124,774",0.12,United States,Phoenix,,7,5,Bachelor's,3
+E04742,Kinsley Vega,Vice President,Accounting,Corporate,Female,Latino,33,12/16/2020,"$258,426",0.4,Brazil,Rio de Janerio,,10,0,Bachelor's,1
+E04766,Lyla Yoon,Vice President,Accounting,Manufacturing,Female,Asian,38,12/13/2012,"$191,571",0.32,United States,Austin,,9,4,Master's,2
+E04800,Eli Han,Sr. Analyst,Accounting,Manufacturing,Male,Asian,40,1/15/2016,"$89,984",0,China,Chengdu,,7,7,Bachelor's,4
+E04817,Zoe Sanchez,Sr. Analyst,Accounting,Research & Development,Female,Latino,53,12/23/2004,"$90,212",0,Brazil,Sao Paulo,,7,9,Bachelor's,1
+E04890,Eleanor Chan,Sr. Manger,Accounting,Manufacturing,Female,Asian,49,4/2/2001,"$129,124",0.12,China,Shanghai,,10,16,Master's,0
+E04994,Bella Holmes,Director,Accounting,Research & Development,Female,Caucasian,35,6/26/2017,"$161,269",0.27,United States,Miami,,9,1,PhD,1

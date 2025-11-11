@@ -1,0 +1,131 @@
+EEID,Full Name,Job Title,Department,Business Unit,Gender,Ethnicity,Age,Hire Date,Annual Salary,Bonus %,Country,City,Exit Date,EmploymentRating,DaysOfAbsence,EducationLevel,CertificationsEarned
+E00005,Riley Washington,Director,Sales,Speciality Products,Female,Caucasian,39,4/29/2007,"$171,487",0.23,United States,Phoenix,,10,6,Bachelor's,3
+E00022,Elena Her,Account Representative,Sales,Manufacturing,Female,Asian,62,9/17/2006,"$64,669",0,China,Chongqing,,8,9,Bachelor's,4
+E00116,Madelyn Mehta,Analyst,Sales,Speciality Products,Female,Asian,64,1/28/2005,"$55,369",0,United States,Phoenix,,10,15,Bachelor's,2
+E00145,Alexander Rivera,Sr. Analyst,Sales,Research & Development,Male,Latino,58,4/27/2009,"$76,802",0,Brazil,Manaus,,10,7,PhD,3
+E00178,Harper Alexander,Sr. Analyst,Sales,Speciality Products,Female,Caucasian,26,10/14/2019,"$79,356",0,United States,Phoenix,,10,9,Bachelor's,3
+E00218,David Desai,Vice President,Sales,Speciality Products,Male,Asian,47,11/22/2016,"$253,249",0.31,United States,Austin,,5,5,Bachelor's,2
+E00273,David Owens,Sr. Analyst,Sales,Corporate,Male,Black,43,4/16/2004,"$94,246",0,United States,Austin,,5,16,Master's,2
+E00412,Ezra Banks,Analyst II,Sales,Research & Development,Male,Caucasian,37,4/23/2010,"$57,531",0,United States,Chicago,,10,6,Bachelor's,3
+E00446,Hudson Hill,Sr. Analyst,Sales,Research & Development,Male,Caucasian,30,11/4/2019,"$96,092",0,United States,Austin,,9,4,PhD,4
+E00488,Emery Hunter,Sr. Analyst,Sales,Corporate,Female,Caucasian,28,7/3/2021,"$82,739",0,United States,Phoenix,,8,14,Bachelor's,0
+E00538,Caleb Xiong,Sr. Account Representative,Sales,Corporate,Male,Asian,38,11/28/2011,"$74,010",0,United States,Chicago,,5,4,Bachelor's,0
+E00634,Samantha Chavez,Sr. Analyst,Sales,Speciality Products,Female,Latino,53,1/9/2017,"$75,769",0,Brazil,Manaus,7/17/2020,8,9,Bachelor's,1
+E00644,Joshua Gupta,Account Representative,Sales,Corporate,Male,Asian,57,1/24/2017,"$50,994",0,China,Chongqing,,6,3,PhD,2
+E00671,Leonardo Dixon,Analyst,Sales,Speciality Products,Male,Caucasian,37,9/5/2019,"$49,998",0,United States,Seattle,,10,0,Bachelor's,4
+E00725,Nova Herrera,Account Representative,Sales,Speciality Products,Female,Latino,45,5/10/2014,"$65,047",0,Brazil,Sao Paulo,,5,9,Bachelor's,0
+E00742,Cooper Mitchell,Manager,Sales,Speciality Products,Male,Caucasian,43,1/31/2006,"$117,518",0.07,United States,Seattle,,9,5,Bachelor's,0
+E00749,Valentina Moua,Account Representative,Sales,Manufacturing,Female,Asian,37,11/10/2015,"$64,204",0,United States,Columbus,4/20/2021,7,1,Bachelor's,4
+E00752,Luna Liu,Vice President,Sales,Manufacturing,Female,Asian,36,2/22/2014,"$218,530",0.3,China,Shanghai,,10,8,Bachelor's,1
+E00758,Jonathan Khan,Account Representative,Sales,Manufacturing,Male,Asian,35,8/30/2013,"$59,646",0,China,Shanghai,,9,6,Bachelor's,0
+E00788,Emily Contreras,Analyst II,Sales,Manufacturing,Female,Latino,56,6/15/1992,"$59,591",0,Brazil,Sao Paulo,,10,1,Bachelor's,0
+E00943,Elena Mendoza,Director,Sales,Speciality Products,Female,Latino,27,10/24/2018,"$154,973",0.29,Brazil,Sao Paulo,,9,15,Master's,1
+E00957,Genesis Perry,Sr. Manger,Sales,Corporate,Female,Caucasian,46,7/18/2013,"$149,712",0.14,United States,Columbus,,10,2,Bachelor's,1
+E00994,Charlotte Baker,Analyst II,Sales,Manufacturing,Female,Caucasian,29,11/17/2016,"$60,930",0,United States,Austin,,6,11,Bachelor's,4
+E01002,Elias Ali,Manager,Sales,Corporate,Male,Asian,28,3/19/2021,"$127,543",0.06,China,Shanghai,,8,13,PhD,4
+E01019,Dominic Scott,Sr. Analyst,Sales,Corporate,Male,Caucasian,45,3/16/2011,"$81,687",0,United States,Phoenix,,10,15,Bachelor's,3
+E01116,Jaxon Tran,Sr. Manger,Sales,Manufacturing,Male,Asian,45,9/7/2007,"$151,027",0.1,China,Shanghai,,8,13,Master's,4
+E01132,Aiden Bryant,Account Representative,Sales,Manufacturing,Male,Black,47,10/21/2002,"$70,122",0,United States,Columbus,,9,12,Bachelor's,4
+E01150,Allison Leung,Sr. Analyst,Sales,Research & Development,Female,Asian,62,5/18/2020,"$97,830",0,United States,Austin,,7,16,Bachelor's,2
+E01221,Eva Figueroa,Analyst II,Sales,Research & Development,Female,Latino,48,5/14/2014,"$61,216",0,United States,Seattle,,10,15,Bachelor's,1
+E01225,Christian Fong,Manager,Sales,Research & Development,Male,Asian,49,8/10/2012,"$109,850",0.07,China,Beijing,2/4/2020,10,14,Bachelor's,0
+E01238,Eloise Griffin,Director,Sales,Manufacturing,Female,Caucasian,55,10/29/1995,"$153,271",0.15,United States,Austin,,7,0,Bachelor's,3
+E01291,Thomas Aguilar,Sr. Account Representative,Sales,Speciality Products,Male,Latino,45,2/10/2021,"$79,882",0,United States,Phoenix,,6,3,Master's,4
+E01413,Caroline Nelson,Sr. Account Representative,Sales,Speciality Products,Female,Black,60,7/30/1997,"$71,677",0,United States,Columbus,,9,15,Bachelor's,4
+E01415,Henry Green,Sr. Account Representative,Sales,Speciality Products,Male,Caucasian,32,2/3/2020,"$96,598",0,United States,Phoenix,,7,3,Bachelor's,4
+E01427,Mia Cheng,Sr. Manger,Sales,Manufacturing,Female,Asian,34,4/22/2015,"$154,941",0.13,United States,Phoenix,,6,2,Master's,3
+E01466,Connor Vang,Analyst,Sales,Speciality Products,Male,Asian,25,7/28/2021,"$46,845",0,United States,Miami,,8,1,PhD,1
+E01488,Penelope Griffin,Director,Sales,Manufacturing,Female,Caucasian,61,1/23/2021,"$151,783",0.26,United States,Seattle,,9,5,Master's,4
+E01533,Avery Bailey,Sr. Analyst,Sales,Speciality Products,Female,,,,,,United States,Phoenix,,6,16,Master's,1
+E01582,Elijah Coleman,Sr. Manger,Sales,Research & Development,Male,Caucasian,53,10/19/2014,"$159,538",0.11,United States,Miami,,6,16,Master's,4
+E01652,Avery Dominguez,Sr. Manger,Sales,Corporate,Female,Latino,27,9/13/2019,"$133,297",0.13,Brazil,Rio de Janerio,,10,8,PhD,2
+E01733,Eloise Pham,Manager,Sales,Speciality Products,Female,Asian,45,10/20/2011,"$123,640",0.07,China,Shanghai,,9,4,Bachelor's,3
+E01760,Madeline Acosta,Sr. Account Representative,Sales,Speciality Products,Female,Latino,26,2/9/2021,"$87,427",0,Brazil,Sao Paulo,,5,11,Master's,1
+E01762,Maya Ngo,Manager,Sales,Speciality Products,Female,Asian,55,10/20/2012,"$108,686",0.06,United States,Columbus,,6,7,Bachelor's,4
+E01789,Charles Luu,Sr. Manger,Sales,Manufacturing,Male,Asian,25,6/15/2021,"$142,731",0.11,China,Shanghai,6/3/2022,8,3,Master's,2
+E01941,Quinn Trinh,Analyst II,Sales,Corporate,Female,Asian,42,5/9/2010,"$67,743",0,China,Beijing,12/25/2014,6,15,Bachelor's,4
+E01943,Vivian Espinoza,Sr. Manger,Sales,Corporate,Female,Latino,52,10/5/2006,"$147,966",0.11,Brazil,Rio de Janerio,5/23/2019,7,15,PhD,1
+E01967,John Dang,Director,Sales,Corporate,Male,Asian,58,3/19/1992,"$199,848",0.16,China,Chongqing,,8,9,Bachelor's,1
+E01985,Eliana Turner,Account Representative,Sales,Research & Development,Female,Black,65,9/29/2000,"$67,837",0,United States,Austin,,6,1,Bachelor's,2
+E01994,Angel Powell,Analyst II,Sales,Research & Development,Male,Caucasian,61,7/11/2008,"$66,521",0,United States,Seattle,,7,0,Master's,0
+E02024,Amelia Bell,Sr. Analyst,Sales,Manufacturing,Female,Caucasian,53,8/5/2017,"$89,769",0,United States,Seattle,,6,11,Bachelor's,2
+E02047,Xavier Perez,Sr. Analyst,Sales,Manufacturing,Male,Latino,51,2/26/1998,"$71,111",0,Brazil,Rio de Janerio,,7,13,Bachelor's,2
+E02059,Roman Munoz,Sr. Manger,Sales,Speciality Products,Male,Latino,54,10/20/2011,"$122,644",0.12,United States,Austin,,10,1,Bachelor's,0
+E02071,Mateo Her,Vice President,Sales,Speciality Products,Male,Asian,44,3/2/2014,"$207,172",0.31,China,Chongqing,,6,8,Bachelor's,0
+E02121,Levi Brown,Sr. Analyst,Sales,Corporate,Male,Black,36,12/26/2021,"$75,119",0,United States,Chicago,,6,14,Bachelor's,1
+E02183,Sarah Ayala,Analyst,Sales,Corporate,Female,Latino,47,6/9/2015,"$41,429",0,United States,Seattle,,8,16,Bachelor's,0
+E02189,Isla Chavez,Account Representative,Sales,Research & Development,Female,Latino,29,5/19/2018,"$65,334",0,Brazil,Rio de Janerio,,10,14,Bachelor's,0
+E02191,Maria Sun,Director,Sales,Corporate,Female,Asian,25,12/19/2021,"$150,666",0.23,China,Chengdu,,10,6,Bachelor's,3
+E02254,Jaxson Sandoval,Sr. Analyst,Sales,Speciality Products,Male,Latino,61,5/3/2017,"$90,855",0,Brazil,Sao Paulo,,9,3,Bachelor's,2
+E02285,Aria Xi,Director,Sales,Research & Development,Female,Asian,45,3/1/2002,"$165,181",0.16,United States,Seattle,,8,6,Master's,0
+E02295,Axel Jordan,Analyst,Sales,Corporate,Male,Caucasian,47,2/28/2013,"$54,635",0,United States,Chicago,,8,16,Bachelor's,4
+E02415,Penelope Gonzalez,Sr. Analyst,Sales,Corporate,Female,Latino,52,10/16/1994,"$93,103",0,United States,Phoenix,,6,8,Bachelor's,1
+E02427,Addison Mehta,Manager,Sales,Corporate,Female,Asian,27,9/15/2018,"$127,616",0.07,United States,Columbus,,10,3,Bachelor's,1
+E02478,Alexander Morris,Manager,Sales,Speciality Products,Male,Caucasian,33,6/21/2013,"$119,631",0.06,United States,Phoenix,,6,13,Bachelor's,1
+E02522,Silas Rivera,Vice President,Sales,Corporate,Male,Latino,48,2/28/2000,"$258,081",0.3,United States,Chicago,,8,2,Bachelor's,3
+E02613,John Jung,Sr. Analyst,Sales,Speciality Products,Male,Asian,63,3/12/2018,"$73,200",0,China,Shanghai,,8,8,Master's,1
+E02633,Allison Roberts,Vice President,Sales,Manufacturing,Female,Black,54,8/19/2000,"$222,224",0.38,United States,Columbus,,8,7,Bachelor's,3
+E02720,Jaxon Fong,Sr. Analyst,Sales,Speciality Products,Male,Asian,59,3/13/1997,"$83,685",0,China,Beijing,,5,3,Bachelor's,0
+E02769,Eliza Adams,Account Representative,Sales,Manufacturing,Female,Caucasian,26,11/21/2021,"$63,137",0,United States,Chicago,,7,1,PhD,2
+E02783,Levi Mendez,Vice President,Sales,Research & Development,Male,Latino,39,8/23/2011,"$249,506",0.3,Brazil,Rio de Janerio,,7,8,Master's,0
+E02791,Aubrey Romero,Director,Sales,Corporate,Female,Latino,49,4/2/1998,"$160,832",0.3,United States,Phoenix,,7,1,Bachelor's,3
+E02800,Eva Estrada,Sr. Manger,Sales,Speciality Products,Female,Latino,45,7/24/2018,"$148,991",0.12,Brazil,Sao Paulo,,9,0,Bachelor's,4
+E02801,Santiago f Brooks,Sr. Manger,Sales,Corporate,Male,Black,51,9/1/2000,"$157,487",0.12,United States,Phoenix,,5,8,Master's,0
+E02818,Aaron Garza,Director,Sales,Research & Development,Male,Latino,39,12/27/2013,"$165,756",0.28,United States,Columbus,6/9/2020,9,14,Bachelor's,2
+E02844,Charles Diaz,Sr. Manger,Sales,Corporate,Male,Latino,55,11/16/2013,"$124,129",0.15,Brazil,Sao Paulo,,10,12,Bachelor's,1
+E02848,Emma Brooks,Sr. Account Representative,Sales,Research & Development,Female,Caucasian,30,12/18/2016,"$89,458",0,United States,Austin,,6,11,Bachelor's,2
+E02850,Evelyn Dinh,Director,Sales,Research & Development,Female,Asian,41,8/10/2018,"$171,173",0.21,United States,Columbus,,6,5,Bachelor's,3
+E03000,Hailey Hong,Account Representative,Sales,Research & Development,Female,Asian,33,1/22/2021,"$56,405",0,United States,Chicago,,6,12,Bachelor's,3
+E03007,Isaac Joseph,Analyst,Sales,Manufacturing,Male,Caucasian,54,9/24/1998,"$58,006",0,United States,Seattle,,10,3,Bachelor's,2
+E03027,Elijah Watson,Sr. Manger,Sales,Manufacturing,Male,Caucasian,29,3/16/2017,"$151,413",0.15,United States,Seattle,,9,6,Bachelor's,4
+E03047,Gabriella Gupta,Sr. Account Representative,Sales,Corporate,Female,Asian,41,2/15/2005,"$95,372",0,China,Shanghai,,10,0,Bachelor's,3
+E03064,Lincoln Fong,Analyst II,Sales,Speciality Products,Male,Asian,31,2/17/2020,"$67,171",0,China,Chongqing,5/1/2021,10,10,Master's,2
+E03081,Ayla Brown,Sr. Manger,Sales,Manufacturing,Female,Caucasian,49,4/15/2013,"$128,303",0.15,United States,Phoenix,,9,6,Bachelor's,3
+E03102,Cooper Valdez,Manager,Sales,Corporate,Male,Latino,50,4/25/2012,"$113,269",0.09,Brazil,Sao Paulo,,7,5,Bachelor's,2
+E03170,Autumn Thao,Account Representative,Sales,Manufacturing,Female,Asian,63,9/26/2017,"$72,340",0,United States,Phoenix,4/3/2019,7,1,PhD,3
+E03189,Asher Jackson,Sr. Manger,Sales,Speciality Products,Male,Caucasian,50,3/25/2003,"$123,405",0.13,United States,Columbus,,8,15,Bachelor's,1
+E03251,Ruby Medina,Director,Sales,Manufacturing,Female,Latino,50,12/18/2018,"$155,351",0.2,United States,Seattle,,9,4,Bachelor's,2
+E03273,Daniel Shah,Analyst II,Sales,Research & Development,Male,Asian,41,6/4/2010,"$72,425",0,China,Beijing,,7,2,Master's,4
+E03419,Jade Yi,Account Representative,Sales,Speciality Products,Female,Asian,47,7/10/2015,"$63,880",0,China,Chongqing,,6,3,Bachelor's,3
+E03423,Santiago f Gonzalez,Manager,Sales,Research & Development,Male,Latino,36,7/26/2012,"$105,891",0.07,United States,Seattle,,7,6,Bachelor's,1
+E03521,Jackson Navarro,Director,Sales,Corporate,Male,Latino,52,9/25/2020,"$163,143",0.28,Brazil,Sao Paulo,,8,7,Bachelor's,4
+E03549,Mateo Vu,Account Representative,Sales,Speciality Products,Male,Asian,30,9/29/2016,"$59,100",0,China,Chongqing,,7,13,Bachelor's,1
+E03560,Ayla Ng,Account Representative,Sales,Manufacturing,Female,Asian,46,3/20/2004,"$73,004",0,China,Beijing,,6,0,Bachelor's,0
+E03578,Maverick Li,Analyst II,Sales,Research & Development,Male,Asian,34,3/10/2018,"$58,993",0,United States,Austin,,8,3,PhD,0
+E03580,Maverick Medina,Analyst II,Sales,Manufacturing,Male,Latino,39,5/27/2007,"$51,234",0,United States,Seattle,,7,10,Bachelor's,3
+E03583,Brooks Marquez,Vice President,Sales,Corporate,Male,Latino,61,9/24/2019,"$201,464",0.37,United States,Chicago,,9,11,Master's,0
+E03611,Alice Mehta,Analyst II,Sales,Research & Development,Female,Asian,45,4/2/2019,"$52,621",0,China,Beijing,,6,0,Bachelor's,0
+E03648,Vivian Hunter,Account Representative,Sales,Corporate,Female,Black,26,8/21/2019,"$66,084",0,United States,Seattle,,7,4,Master's,2
+E03697,Isaac Woods,Manager,Sales,Corporate,Male,Caucasian,28,1/8/2021,"$108,826",0.1,United States,Miami,,8,6,Master's,1
+E03795,Hazel Young,Sr. Manger,Sales,Speciality Products,Female,Black,30,8/13/2017,"$154,624",0.15,United States,Austin,,7,1,Bachelor's,2
+E03805,Autumn Gonzales,Analyst II,Sales,Corporate,Female,Latino,34,6/6/2012,"$72,126",0,Brazil,Manaus,,9,3,Bachelor's,0
+E03849,Evelyn Jung,Analyst,Sales,Research & Development,Female,Asian,30,2/14/2021,"$48,340",0,China,Beijing,,9,11,Bachelor's,1
+E03863,Madeline Watson,Account Representative,Sales,Research & Development,Female,Black,40,5/27/2009,"$62,411",0,United States,Miami,8/14/2021,7,12,Bachelor's,3
+E03890,Nevaeh Jones,Vice President,Sales,Manufacturing,Female,Caucasian,31,8/20/2020,"$219,693",0.3,United States,Austin,,10,11,Bachelor's,1
+E03894,Charlotte Chang,Manager,Sales,Research & Development,Female,Asian,50,5/7/2000,"$106,428",0.07,United States,Chicago,,7,10,Master's,3
+E03906,Piper Richardson,Sr. Analyst,Sales,Corporate,Female,Caucasian,38,1/27/2008,"$80,024",0,United States,Columbus,,8,1,Bachelor's,0
+E03956,Everly Walker,Sr. Manger,Sales,Research & Development,Female,Caucasian,62,8/2/1999,"$137,995",0.14,United States,Austin,,8,3,Bachelor's,0
+E03980,Lydia Huynh,Account Representative,Sales,Speciality Products,Female,Asian,45,8/16/2000,"$60,113",0,United States,Chicago,,7,1,Master's,0
+E04101,Olivia Harris,Director,Sales,Speciality Products,Female,Caucasian,63,6/14/2020,"$181,216",0.27,United States,Columbus,,9,12,Bachelor's,4
+E04108,Jade Figueroa,Sr. Analyst,Sales,Manufacturing,Female,Latino,33,5/14/2012,"$88,343",0,Brazil,Rio de Janerio,,10,3,Bachelor's,2
+E04127,Emery Acosta,Vice President,Sales,Research & Development,Female,Latino,42,9/11/2013,"$181,452",0.3,United States,Columbus,,8,16,Master's,3
+E04128,Jacob Doan,Analyst II,Sales,Speciality Products,Male,Asian,55,8/2/2021,"$67,130",0,United States,Miami,,6,12,Bachelor's,1
+E04168,Mila Juarez,Manager,Sales,Speciality Products,Female,Latino,38,9/21/2017,"$119,647",0.09,Brazil,Sao Paulo,,9,13,Bachelor's,4
+E04277,Zoe Do,Analyst II,Sales,Speciality Products,Female,Asian,60,1/8/2014,"$51,877",0,China,Beijing,,10,1,Bachelor's,4
+E04335,Parker Allen,Sr. Analyst,Sales,Speciality Products,Male,Caucasian,31,8/13/2018,"$81,828",0,United States,Miami,,9,2,Master's,2
+E04354,Raelynn Rios,Vice President,Sales,Manufacturing,Female,Latino,43,8/21/2016,"$258,498",0.35,United States,Columbus,,9,12,Bachelor's,4
+E04419,Sophia Ahmed,Sr. Manger,Sales,Speciality Products,Female,Asian,30,6/13/2015,"$127,972",0.11,United States,Seattle,,8,5,Master's,0
+E04562,Xavier Zheng,Account Representative,Sales,Manufacturing,Male,Asian,31,7/22/2017,"$55,854",0,United States,Austin,,7,14,Bachelor's,4
+E04600,William Vu,Account Representative,Sales,Speciality Products,Male,Asian,37,11/14/2013,"$56,037",0,China,Shanghai,,6,0,Bachelor's,3
+E04625,Adam Dang,Director,Sales,Research & Development,Male,Asian,45,7/9/2002,"$166,331",0.18,China,Chongqing,,5,14,Bachelor's,1
+E04636,Hailey Yee,Account Representative,Sales,Research & Development,Female,Asian,54,3/16/2021,"$56,239",0,China,Chongqing,,7,2,Bachelor's,3
+E04637,Samuel Song,Director,Sales,Corporate,Male,Asian,31,6/29/2015,"$191,026",0.16,United States,Columbus,,7,5,Bachelor's,0
+E04729,Ezekiel Fong,Vice President,Sales,Research & Development,Male,Asian,56,2/25/2004,"$216,949",0.32,China,Shanghai,,9,12,Bachelor's,2
+E04732,Eva Rivera,Director,Sales,Manufacturing,Female,Latino,36,4/2/2021,"$151,703",0.21,United States,Miami,,10,14,Bachelor's,0
+E04802,Lucy Fong,Sr. Account Representative,Sales,Corporate,Female,Asian,40,1/20/2011,"$96,719",0,China,Chengdu,,6,13,Bachelor's,1
+E04853,Vivian Chu,Sr. Account Representative,Sales,Research & Development,Female,Asian,46,1/17/2021,"$72,131",0,China,Shanghai,,6,6,Bachelor's,0
+E04887,Emery Do,Account Representative,Sales,Research & Development,Female,Asian,40,3/16/2018,"$55,457",0,United States,Columbus,,8,13,PhD,3
+E04937,Ian Ngo,Manager,Sales,Speciality Products,Male,Asian,52,8/7/2014,"$117,062",0.07,United States,Phoenix,,6,9,Bachelor's,0
+E04940,Hudson Williams,Vice President,Sales,Speciality Products,Male,Black,36,3/19/2018,"$195,200",0.36,United States,Austin,,9,13,Bachelor's,2
+E04952,Paisley Gomez,Sr. Analyst,Sales,Manufacturing,Female,Latino,57,10/2/2007,"$98,150",0,Brazil,Rio de Janerio,,6,11,Bachelor's,2
+E1006,Dalia Ahmad,Sales Director,Sales,,Male,,52,,160000.0,0.3,UK,London,,4,3,Master,3
